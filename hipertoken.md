@@ -2,7 +2,7 @@
 
 > Scan the QR code below on WeChat or search the official account 速聚 on WeChat, follow the “速聚” WeChat official account (Chinese), complete the registration, and then you can get the token .
 
-![](https://gitcode.net/chearlai/f/-/raw/master/qrcode.jpg)
+[![](https://gitcode.net/chearlai/f/-/raw/master/qrcode.jpg)](https://gitcode.net/chearlai/f/-/raw/master/qrcode.jpg)
 
 # 联机相关问题可以在此处加入 官方交流QQ群 获得反馈 (Feedback)
 
