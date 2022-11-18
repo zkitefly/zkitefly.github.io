@@ -1,0 +1,91 @@
+{
+  "name": "qwq",
+  "author": "Zkitefly",
+  "version": "1.0",
+  "description": "",
+  "fileApi": "https://zkitfly.github.io/pack",
+  "files": [
+    {
+      "path": "mods/torchslabmod-1.12.2-v1.5.2.jar",
+      "hash": "465025201a4d115ebcc53d9b10ff65dec183c5c5"
+    },
+    {
+      "path": "mods/zombieawareness-1.12.1-1.11.16.jar",
+      "hash": "4d5f353e9dfd66b5648918ba5f8338cf936fc2f0"
+    },
+    {
+      "path": "mods/journeymap-1.12.2-5.7.1.jar",
+      "hash": "3da4323f71bcadcf140002a9f49578f0cd5ce8a8"
+    },
+    {
+      "path": "mods/coroutil-1.12.1-1.2.37.jar",
+      "hash": "90392789dfbcadf440415a775d3ec81326deee2f"
+    },
+    {
+      "path": "mods/jei_1.12.2-4.16.1.301.jar",
+      "hash": "3045e8440ea44071d8b83c4e7b3c190348fdc527"
+    },
+    {
+      "path": "mods/MouseTweaks-2.10-mc1.12.2.jar",
+      "hash": "0d3b0589021905b2eab8ba93805e9fdef463288e"
+    },
+    {
+      "path": "mods/torcherino-7.6.jar",
+      "hash": "aaa1d7888c7834e9926ec6474abff8889eec8fea"
+    },
+    {
+      "path": "mods/lucky-block-forge-1.12.2-2.0.jar",
+      "hash": "980defcfb6dee1c3cff2475a8e8ecabb8913364b"
+    },
+    {
+      "path": "mods/Controlling-3.0.10.jar",
+      "hash": "151671af56599d39ef5ca41bf9bda3584b6818e1"
+    },
+    {
+      "path": "mods/[test]Croparia-2.5.jar.disabled",
+      "hash": "1668abc3145726c47ae43345c25be66fa441a096"
+    },
+    {
+      "path": "mods/EpicSiegeMod-13.167.jar",
+      "hash": "ac2ecd3437610954204f32c57fbff2424d58f625"
+    },
+    {
+      "path": "mods/VeinMiner-1.12-0.38.2.647+b31535a.jar",
+      "hash": "007f517877ce7e78556bfb4038facff2bbb6a6c7"
+    },
+    {
+      "path": "mods/ProjectE-1.12.2-PE1.4.1.jar",
+      "hash": "f10e63fc3c4bf4d34acbfe06a180152dd5d29df1"
+    },
+    {
+      "path": "mods/LuckyBlockAvaritia.zip",
+      "hash": "aadb97fc08ea9ebff70ead746cc2ea4654d04e65"
+    },
+    {
+      "path": "mods/ore_reeds-1.12.2-1.1.1.jar",
+      "hash": "b172ead2907dfb152adf1e9fba2402edc51ca2d0"
+    },
+    {
+      "path": "mods/Clumps-3.1.2.jar",
+      "hash": "6ea78bea8006e3924bc37c2aef0115134c8af07b"
+    },
+    {
+      "path": "hmclversion.cfg",
+      "hash": "1ff1b17088d68a989713be1136ce59003b29a243"
+    }
+  ],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.12.2"
+    },
+    {
+      "id": "forge",
+      "version": "14.23.5.2860"
+    },
+    {
+      "id": "optifine",
+      "version": "HD_U_G5"
+    }
+  ]
+}
