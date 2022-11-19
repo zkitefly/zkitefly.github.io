@@ -1,7 +1,7 @@
 {
   "name": "qwq",
   "author": "Zkitefly",
-  "version": "1.2",
+  "version": "1.3",
   "description": "",
   "fileApi": "https://zkitefly.github.io/pack",
   "files": [
@@ -14,12 +14,20 @@
       "hash": "3da4323f71bcadcf140002a9f49578f0cd5ce8a8"
     },
     {
+      "path": "mods/ore_reeds-1.12.2-1.1.1.jar.disabled",
+      "hash": "b172ead2907dfb152adf1e9fba2402edc51ca2d0"
+    },
+    {
       "path": "mods/LuckyBlockAvaritia.jar",
       "hash": "aadb97fc08ea9ebff70ead746cc2ea4654d04e65"
     },
     {
       "path": "mods/coroutil-1.12.1-1.2.37.jar",
       "hash": "90392789dfbcadf440415a775d3ec81326deee2f"
+    },
+    {
+      "path": "mods/CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
+      "hash": "b6a7e3b889c354216059a3bfad298e30a1e46a2d"
     },
     {
       "path": "mods/jei_1.12.2-4.16.1.301.jar",
@@ -32,6 +40,10 @@
     {
       "path": "mods/torcherino-7.6.jar",
       "hash": "aaa1d7888c7834e9926ec6474abff8889eec8fea"
+    },
+    {
+      "path": "mods/Thelegend27 32x.zip",
+      "hash": "d35e8af86ecadf9c6c0f9b9112f769ea891c3aa3"
     },
     {
       "path": "mods/lucky-block-forge-1.12.2-2.0.jar",
@@ -78,8 +90,12 @@
       "hash": "6ea78bea8006e3924bc37c2aef0115134c8af07b"
     },
     {
+      "path": "mods/Avaritia-1.12.2-3.3.0.37-universal.jar",
+      "hash": "7b60729ab6e144803160c955fcb1e6d695a1aba6"
+    },
+    {
       "path": "hmclversion.cfg",
-      "hash": "1ff1b17088d68a989713be1136ce59003b29a243"
+      "hash": "753952f66dbee6b0781d306d4497d1866da25a5b"
     }
   ],
   "addons": [
