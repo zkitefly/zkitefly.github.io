@@ -1,7 +1,7 @@
 {
   "name": "qwq",
   "author": "Zkitefly",
-  "version": "1.1",
+  "version": "1.2",
   "description": "",
   "fileApi": "https://zkitefly.github.io/pack",
   "files": [
@@ -38,8 +38,16 @@
       "hash": "980defcfb6dee1c3cff2475a8e8ecabb8913364b"
     },
     {
+      "path": "mods/GokiStats-1.2.10.jar",
+      "hash": "caa3d3fac833cf6d24f44c081783ba3b79a9cf48"
+    },
+    {
       "path": "mods/Controlling-3.0.10.jar",
       "hash": "151671af56599d39ef5ca41bf9bda3584b6818e1"
+    },
+    {
+      "path": "mods/upsizer-mc1.12-4.0.1.jar",
+      "hash": "326942bc2ec4b53cf9df8d74fc5e279bbbd55e0a"
     },
     {
       "path": "mods/EpicSiegeMod-13.167.jar.disabled",
