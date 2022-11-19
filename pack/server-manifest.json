@@ -1,7 +1,7 @@
 {
   "name": "qwq",
   "author": "Zkitefly",
-  "version": "1.0",
+  "version": "1.1",
   "description": "",
   "fileApi": "https://zkitefly.github.io/pack",
   "files": [
@@ -16,6 +16,10 @@
     {
       "path": "mods/journeymap-1.12.2-5.7.1.jar",
       "hash": "3da4323f71bcadcf140002a9f49578f0cd5ce8a8"
+    },
+    {
+      "path": "mods/LuckyBlockAvaritia.jar",
+      "hash": "aadb97fc08ea9ebff70ead746cc2ea4654d04e65"
     },
     {
       "path": "mods/coroutil-1.12.1-1.2.37.jar",
@@ -56,10 +60,6 @@
     {
       "path": "mods/ProjectE-1.12.2-PE1.4.1.jar",
       "hash": "f10e63fc3c4bf4d34acbfe06a180152dd5d29df1"
-    },
-    {
-      "path": "mods/LuckyBlockAvaritia.zip",
-      "hash": "aadb97fc08ea9ebff70ead746cc2ea4654d04e65"
     },
     {
       "path": "mods/ore_reeds-1.12.2-1.1.1.jar",
