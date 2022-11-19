@@ -10,10 +10,6 @@
       "hash": "465025201a4d115ebcc53d9b10ff65dec183c5c5"
     },
     {
-      "path": "mods/zombieawareness-1.12.1-1.11.16.jar",
-      "hash": "4d5f353e9dfd66b5648918ba5f8338cf936fc2f0"
-    },
-    {
       "path": "mods/journeymap-1.12.2-5.7.1.jar",
       "hash": "3da4323f71bcadcf140002a9f49578f0cd5ce8a8"
     },
@@ -46,12 +42,16 @@
       "hash": "151671af56599d39ef5ca41bf9bda3584b6818e1"
     },
     {
+      "path": "mods/EpicSiegeMod-13.167.jar.disabled",
+      "hash": "ac2ecd3437610954204f32c57fbff2424d58f625"
+    },
+    {
       "path": "mods/[test]Croparia-2.5.jar.disabled",
       "hash": "1668abc3145726c47ae43345c25be66fa441a096"
     },
     {
-      "path": "mods/EpicSiegeMod-13.167.jar",
-      "hash": "ac2ecd3437610954204f32c57fbff2424d58f625"
+      "path": "mods/zombieawareness-1.12.1-1.11.16.jar.disabled",
+      "hash": "4d5f353e9dfd66b5648918ba5f8338cf936fc2f0"
     },
     {
       "path": "mods/VeinMiner-1.12-0.38.2.647+b31535a.jar",
