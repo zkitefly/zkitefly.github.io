@@ -10,7 +10,6 @@
         data-emit-metadata="1"
         data-input-position="top"
         data-theme="preferred_color_scheme"
-        data-lang="zh-CN"
         data-loading="lazy"
         crossorigin="anonymous"
         async>
