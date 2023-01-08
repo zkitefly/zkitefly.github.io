@@ -96,7 +96,7 @@ bedrockminer
 
 cloth config api 有冲突
 
-！[https://api.onedrive.com/v1.0/shares/s!AiSrzi-vYVoBhBHvMsSGL8wA7hBA/root/content](https://api.onedrive.com/v1.0/shares/s!AiSrzi-vYVoBhBHvMsSGL8wA7hBA/root/content)
+![https://api.onedrive.com/v1.0/shares/s!AiSrzi-vYVoBhBHvMsSGL8wA7hBA/root/content](https://api.onedrive.com/v1.0/shares/s!AiSrzi-vYVoBhBHvMsSGL8wA7hBA/root/content)
 
 Light Overlay 需要更高级的 cloth config api
 
@@ -119,6 +119,16 @@ Light Overlay 需要更高级的 cloth config api
 [https://img.kookapp.cn/attachments/2023-01/08/63ba715e8006e.zip](https://img.kookapp.cn/attachments/2023-01/08/63ba715e8006e.zip)
 
 好了我知道了，升级 Roughly Enough Items 就行了
+
+——
+
+[https://paste.ee/p/PiikB](https://paste.ee/p/PiikB)
+
+卸载你现在的 Java，安装 #☕Java 下载 里的 Java 并调大内存分配
+
+[https://img.kookapp.cn/attachments/2023-01/08/63ba6b434c0c4.zip](https://img.kookapp.cn/attachments/2023-01/08/63ba6b434c0c4.zip)
+
+cloth config api 有冲突
 
 ——
 
