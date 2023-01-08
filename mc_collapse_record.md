@@ -118,6 +118,7 @@ Light Overlay 需要更高级的 cloth config api
 
 [https://img.kookapp.cn/attachments/2023-01/08/63ba715e8006e.zip](https://img.kookapp.cn/attachments/2023-01/08/63ba715e8006e.zip)
 
+好了我知道了，升级 Roughly Enough Items 就行了
 
 ——
 
