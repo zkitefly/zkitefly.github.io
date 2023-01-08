@@ -40,7 +40,7 @@ bedrockminer
 
 最后是 carpet tis addition 和 lithium
 
-![https://img.kookapp.cn/assets/2023-01/2S5xrBXixs0gm089.png](https://img.kookapp.cn/assets/2023-01/2S5xrBXixs0gm089.png)
+![https://api.onedrive.com/v1.0/shares/s!AiSrzi-vYVoBhA8ck1vz-pjsxLD6/root/content](https://api.onedrive.com/v1.0/shares/s!AiSrzi-vYVoBhA8ck1vz-pjsxLD6/root/content)
 
 ——
 
@@ -80,7 +80,7 @@ bedrockminer
 
 ——
 
-![https://img.kookapp.cn/assets/2023-01/zPu9bLgYqv0cd06m.png](https://img.kookapp.cn/assets/2023-01/zPu9bLgYqv0cd06m.png)
+![https://api.onedrive.com/v1.0/shares/s!AiSrzi-vYVoBhBASe9SFV8UX2Rcp/root/content](https://api.onedrive.com/v1.0/shares/s!AiSrzi-vYVoBhBASe9SFV8UX2Rcp/root/content)
 
 在启动器的游戏设置里，拉到最下面，把「使用 OpenGL 软渲染器」打开
 
