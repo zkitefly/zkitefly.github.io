@@ -185,8 +185,6 @@ ZekerZhayard: mod loading 完了就没有输出了
 
 然后就会报错
 
-- 
-
 ![https://api.onedrive.com/v1.0/shares/s!AiSrzi-vYVoBhAlGEYzi-czpJk8R/root/content](https://api.onedrive.com/v1.0/shares/s!AiSrzi-vYVoBhAlGEYzi-czpJk8R/root/content)
 
 ```
@@ -203,7 +201,7 @@ ZekerZhayard: mod loading 完了就没有输出了
 Exception in thread "main" java.lang.module.ResolutionException: Module optifine reads another module named optifine
 ```
 
-![https://paste.ee/p/FMpat#s=0&l=7](https://paste.ee/p/FMpat#s=0&l=7)
+[https://paste.ee/p/FMpat#s=0&l=7](https://paste.ee/p/FMpat#s=0&l=7)
 
 - 
 
