@@ -132,6 +132,66 @@ cloth config api 有冲突
 
 ——
 
+[https://paste.ee/p/TfCbz](https://paste.ee/p/TfCbz)
+
+jumploader 需要正版登录
+
+——
+
+[https://img.kookapp.cn/attachments/2023-01/08/63ba9296ca48e.zip](https://img.kookapp.cn/attachments/2023-01/08/63ba9296ca48e.zip)
+
+optifabric 和 architectury api 冲突
+
+——
+
+[https://paste.ee/p/yhDUd](https://paste.ee/p/yhDUd)
+
+Kibe mod 的问题
+
+——
+
+[https://paste.ee/p/V4jVP](https://paste.ee/p/V4jVP)
+
+用 java 17 启动游戏，不要用 java 19
+
+——
+
+[https://paste.ee/p/JRKRt](https://paste.ee/p/JRKRt)
+
+Sodium 和 OptiFabric 不兼容
+
+——
+
+https://paste.ee/p/vDqdo
+
+在 控制面板 -- 时钟和区域 -- 区域 -- 管理 -- 更改系统区域设置 里面把下面那个勾去掉
+https://img.kaiheila.cn/assets/2022-07/iYYtKEOkbe0cm07e.png
+
+——
+
+https://paste.ee/p/EtcXy
+
+你还是没去掉 optifabric 或者 sodium
+
+——
+
+https://paste.ee/p/jA6Tn
+
+enchlevel-langpatch-wrapper-forge-1.0.1-beta.2.jar 不是给 forge 1.18.2 用的
+
+——
+
+https://paste.ee/p/aSEXC
+
+装这个 mod https://www.mcmod.cn/class/4192.html
+
+——
+
+
+
+
+
+
 ## 20230107
 
 - 
