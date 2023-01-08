@@ -1,6 +1,6 @@
 # Minecraft 崩溃收集
 
-<h2 id="h">20230108</h1>
+## 20230108
 
 ——
 
@@ -108,15 +108,3 @@ bedrockminer
 ## 
 
 
-
-
-
-
-
-
-
-
-
-<script>
-    window.location.href = "https://zkitefly.github.io/mc_collapse_record#n";
-</script>
