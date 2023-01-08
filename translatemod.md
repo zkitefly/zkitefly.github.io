@@ -84,7 +84,7 @@ APP ID：20221006001373208
 密钥：iW9_u7Ej4XJ_Z4oPPfPZ
 ```
 
-*若出现任何问题，请在 [我的 Github Discussions 留言](https://github.com/zkitefly/zkitefly.github.io/discussions)*
+*若出现任何问题，请在下方留言
 
 <script src="https://giscus.app/client.js"
         data-repo="zkitefly/zkitefly.github.io"
