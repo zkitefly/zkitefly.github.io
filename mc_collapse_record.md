@@ -86,25 +86,189 @@ bedrockminer
 
 ——
 
+问一下，我的世界启动贼慢怎么办？
+
+不要装 i18n update mod
+
+——
+
+[https://img.kookapp.cn/attachments/2023-01/08/63ba6b434c0c4.zip](https://img.kookapp.cn/attachments/2023-01/08/63ba6b434c0c4.zip)
+
+cloth config api 有冲突
+
+！[https://api.onedrive.com/v1.0/shares/s!AiSrzi-vYVoBhBHvMsSGL8wA7hBA/root/content](https://api.onedrive.com/v1.0/shares/s!AiSrzi-vYVoBhBHvMsSGL8wA7hBA/root/content)
+
+Light Overlay 需要更高级的 cloth config api
+
+[https://img.kookapp.cn/attachments/2023-01/08/63ba6d7b07041.zip](https://img.kookapp.cn/attachments/2023-01/08/63ba6d7b07041.zip)
+
+还是 cloth config api
+
+我把这玩意关了啊
+
+因为这个 cloth config api 是内置在 Roughly Enough Items 里的
+
+那咋整？
+
+你就不想知道究竟是哪个 mod 和 cloth config api 冲突了么
+
+在游戏设置里的「Java 虚拟机参数」里加 -Dmixin.dumpTargetOnFailure=true ，启动游戏，崩溃后把游戏目录下的 .mixin.out 文件夹里的 classes 文件夹打包发过来，同时也把有冲突的 mod 发过来
+
+[https://img.kookapp.cn/attachments/2023-01/08/63ba7148ea937.zip](https://img.kookapp.cn/attachments/2023-01/08/63ba7148ea937.zip)
+
+[https://img.kookapp.cn/attachments/2023-01/08/63ba715e8006e.zip](https://img.kookapp.cn/attachments/2023-01/08/63ba715e8006e.zip)
 
 
+——
+
+## 20230107
+
+- 
+
+![https://api.onedrive.com/v1.0/shares/s!AiSrzi-vYVoBhAqyCCUYrizj0HIP/root/content](https://api.onedrive.com/v1.0/shares/s!AiSrzi-vYVoBhAqyCCUYrizj0HIP/root/content)
+
+- 
+
+游戏崩溃后在崩溃界面点左下角「导出游戏崩溃信息」，然后点 KOOK 聊天栏右侧的加号，把导出的压缩包整个发上来
+
+游戏崩溃后在崩溃界面点左下角「导出游戏崩溃信息」，然后把导出的压缩包整个发上来（不要解压）
+
+- 
+
+不要装 i18n update mod
+
+这个 mod 的功能是自动帮你下载汉化资源包然后用上，但是现在它的下载功能出问题了
+
+所以你需要手动完成这个操作
+
+http://downloader.meitangdehulu.com
+
+这是资源包下载链接这是资源包下载链接
+
+原因：https://bbs.mcmod.cn/forum.php?mod=viewthread&tid=11978
+
+ZekerZhayard: mod loading 完了就没有输出了
+
+[https://paste.ee/p/1JENb](https://paste.ee/p/1JENb)
+
+卡在 Forge 模组加载页面
+
+![https://api.onedrive.com/v1.0/shares/s!AiSrzi-vYVoBhBSah2gEKgiYAVEf/root/content](https://api.onedrive.com/v1.0/shares/s!AiSrzi-vYVoBhBSah2gEKgiYAVEf/root/content)
+
+- 
+
+不要使用 Java 19/18 ，更换 Java 版本
 
 
+我问一下，只要是用java19启动游戏就会崩溃吗？
+
+用 java 19 启动 forge 才会
+
+而且
+
+得装了用 mixin 的 mod
+
+是 forge 依赖的 asm 
+
+导致 asm 没办法解析高版本 java 自带的类
+
+然后就会报错
+
+- 
+
+![https://api.onedrive.com/v1.0/shares/s!AiSrzi-vYVoBhAlGEYzi-czpJk8R/root/content](https://api.onedrive.com/v1.0/shares/s!AiSrzi-vYVoBhAlGEYzi-czpJk8R/root/content)
+
+```
+[18:22:43] [main/INFO]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 18.0.2.1 by Oracle Corporation
+```
+
+[https://paste.ee/p/U1CXV#s=0&l=4](https://paste.ee/p/U1CXV#s=0&l=4)
+
+- 
+
+你装了两个 optifine
+
+```
+Exception in thread "main" java.lang.module.ResolutionException: Module optifine reads another module named optifine
+```
+
+![https://paste.ee/p/FMpat#s=0&l=7](https://paste.ee/p/FMpat#s=0&l=7)
+
+- 
+
+换一个 Java
 
 
+启动失败，在创建新进程时发生错误，可能是Jva路径错误java.
 
+```
+io.IOException:Cannot run program
+"/Users/chenpinghui/Library/Application
+Support/minecraft/cache/java/java-runtime-alpha/mac-os/java-
+runtime-alpha/jre.bundle/Contents/Home/bin/java"(in directory
+".minecraft"):error=2,No such file or directory
+```
 
+![https://api.onedrive.com/v1.0/shares/s!AiSrzi-vYVoBhBNH_SbPoWRd5dGJ/root/content](https://api.onedrive.com/v1.0/shares/s!AiSrzi-vYVoBhBNH_SbPoWRd5dGJ/root/content)
 
+- 
 
+升级 OptiFine 到 1.19.2 I1 pre4 版本
 
+```
+[16:41:19] [Render thread/ERROR]: Reported exception thrown!
+net.minecraft.ReportedException: Rendering overlay
+```
+[https://paste.ee/p/AvOCl#s=0&l=20](https://paste.ee/p/AvOCl#s=0&l=20)
 
+```
+[15:37:11] [Render thread/ERROR]: Reported exception thrown!
+net.minecraft.ReportedException: Rendering overlay
+```
+[https://img.kookapp.cn/attachments/2023-01/07/63b921658cdeb.zip](https://img.kookapp.cn/attachments/2023-01/07/63b921658cdeb.zip)
 
+- 
 
+模组  要求 XXX XXX或更高，低于XXX
 
+```
+-- MOD irisflw --
+Details:
+  Mod File: /E:/机械动力整合包/.minecraft/mods/oculus-flywheel-compat-1.19.2-0.1.6-ALPHA.jar
+  Failure message: Mod irisflw requires flywheel 0.6.7 or above, and below 0.6.8
+  Currently, flywheel is 0.6.8-13
+  Mod Version: 1.19.2-0.1.6-ALPHA
+  Mod Issue URL: NOT PROVIDED
+  Exception message: MISSING EXCEPTION MESSAGE
+```
 
+[https://img.kookapp.cn/attachments/2023-01/07/63b93c70187ec.zip](https://img.kookapp.cn/attachments/2023-01/07/63b93c70187ec.zip)
 
+- 
 
+装这个 mod：
 
-## 
+```
+[16:36:08] [main/ERROR]: Missing or unsupported mandatory dependencies:
+    Mod ID: 'l2library', Requested by: 'modulargolems', Expected range: '[1.8.8,)', Actual version: '[MISSING]'
+```
 
+[https://paste.ee/p/T7lRi](https://paste.ee/p/T7lRi)
+
+- 
+
+外置登录需要 java 8
+
+```
+java.lang.UnsupportedClassVersionError: moe/yushi/authlibinjector/Premain : Unsupported major.minor version 52.0
+```
+
+[https://paste.ee/p/vVF9K](https://paste.ee/p/vVF9K)
+
+- 
+
+在 控制面板 -- 时钟和区域 -- 区域 -- 管理 -- 更改系统区域设置 里面把下面那个勾去掉
+https://img.kaiheila.cn/assets/2022-07/iYYtKEOkbe0cm07e.png
+
+![https://api.onedrive.com/v1.0/shares/s!AiSrzi-vYVoBhBXHo5gGR3_MH_u2/root/content](https://api.onedrive.com/v1.0/shares/s!AiSrzi-vYVoBhBXHo5gGR3_MH_u2/root/content)
 
