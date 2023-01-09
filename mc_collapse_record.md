@@ -209,9 +209,36 @@ https://paste.ee/p/MJu1x
 
 ——
 
-https://paste.ee/p/TTnGG
+https://paste.ee/p/KiL0n
 
+四个前置 mod 没装：
+https://www.mcmod.cn/class/2652.html
 
+https://www.mcmod.cn/class/1363.html
+
+https://www.mcmod.cn/class/2575.html
+
+https://www.mcmod.cn/class/938.html
+
+——
+
+https://paste.ee/p/pR1E9
+
+你装的 projecte 是给 1.16.5 用的
+
+——
+
+https://paste.ee/p/XjXxR
+
+去掉 i18n update mod
+
+——
+
+https://paste.ee/p/iZXf3
+
+装这个 mod https://www.mcmod.cn/class/5473.html
+
+——
 
 
 
