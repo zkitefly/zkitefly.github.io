@@ -7,6 +7,7 @@
 https://paste.ee/p/2ItGe
 
 在启动器的游戏设置里，拉到最下面，把「使用 OpenGL 软渲染器」打开
+
 https://img.kookapp.cn/assets/2023-01/dODEb69kiV0gg09h.png
 
 ——
@@ -20,6 +21,7 @@ apexcore 和 registrator 冲突
 ![](https://api.onedrive.com/v1.0/shares/s!AiSrzi-vYVoBhBvR8Scv7zw6p-m-/root/content)
 
 在启动器的游戏设置里，拉到最下面，把「使用 OpenGL 软渲染器」打开
+
 https://img.kookapp.cn/assets/2023-01/dODEb69kiV0gg09h.png
 
 ——
@@ -41,6 +43,175 @@ https://paste.ee/p/ZvrCS
 PlayTics Furniture 1.18 v.1.9.jar 是给 1.18.2 用的，但是你运行的是 1.18.1
 
 ——
+
+https://cdn.discordapp.com/attachments/880424588113236008/1057942180263641228/minecraft-exported-crash-info-2022-12-29T16-33-03.zip
+
+升级 OptiFine 到 1.12.2 G6 pre1 版本
+
+——
+
+https://discord.com/channels/879708313435123742/880424588113236008/1059663405272805396
+
+用 Java 8 启动游戏，不要用 java 17
+
+——
+
+https://discord.com/channels/879708313435123742/880424588113236008/1060095505511747665
+
+降低内存分配
+
+调到2g变成这样了
+
+https://discord.com/channels/879708313435123742/880424588113236008/1060100060152598588
+
+你系统内存多大 
+
+https://discord.com/channels/879708313435123742/880424588113236008/1060512270754529330
+
+你发一下 D:\HMCL.minecraft\hs_err_pid660.log
+
+https://discord.com/channels/879708313435123742/880424588113236008/1060517053980737556
+
+你有没有在系统里调过虚拟内存大小  没有  那你把设置虚拟内存的那个界面截个图？
+
+https://discord.com/channels/879708313435123742/880424588113236008/1060519206728249344
+
+....还说没调过。。选中 D 盘，选「系统管理的大小」
+
+——
+
+https://discord.com/channels/879708313435123742/880424588113236008/1060149376317653013
+
+在 控制面板 -- 时钟和区域 -- 区域 -- 管理 -- 更改系统区域设置 里面把下面那个勾去掉
+
+https://img.kaiheila.cn/assets/2022-07/iYYtKEOkbe0cm07e.png
+
+——
+
+https://paste.ee/p/GEueN
+
+在启动器的游戏设置里，拉到最下面，把「使用 OpenGL 软渲染器」打开
+https://img.kookapp.cn/assets/2023-01/dODEb69kiV0gg09h.png
+
+——
+
+https://paste.ee/p/nvSxp
+
+PlayTics Furniture 1.18 v.1.9.jar 是给 1.18.2 用的，但是你运行的是 1.18.1
+
+装这个 mod 的 1.18.1-1.0.408-ALPHA 版本 https://www.mcmod.cn/class/1865.html
+
+——
+
+https://paste.ee/p/YEWDM
+
+换成了1.18.1-1.0.408-ALPHA还是弹错误
+
+PlayTics Furniture 1.18 v.1.9.jar 是给 1.18.2 用的，但是你运行的是 1.18.1
+
+——
+
+https://paste.ee/p/Oq9Av
+
+你开的是全局游戏设置里的还是游戏特定设置里的
+
+全局
+
+你应该开 游戏特定设置 里的 ？
+
+——
+
+https://paste.ee/p/N3m6m
+
+装这个 mod 的 1.18.1-1.0.408-ALPHA 版本 https://www.mcmod.cn/class/1865.html
+
+以及装这个 mod https://www.mcmod.cn/class/5506.html
+
+——
+
+https://paste.ee/p/oJaAH
+
+你有 mod 没有下载完整
+
+——
+
+https://paste.ee/p/fEc67
+
+二分查找是一种在许多其他事物中找到错误事物的方法，而不必一个一个地删除事物。
+
+这对于在数百个模组中找到损坏的模组非常有用，而无需花时间一个一个地测试模组。
+
+程序很简单：
+
+   1. 把现有的东西去掉一半，放在一边。
+
+   2. 运行程序/游戏。
+
+   3. 问题还存在吗？
+
+     如果是：从步骤 1 开始重复当前的事情。
+
+     如果不是: 把当前的东西换成放在一边的东西，从第一步开始重复。
+
+   4. 重复这个过程，直到找到有问题的东西。
+
+——
+
+https://paste.ee/p/oBCSA
+
+增大内存分配
+
+那就在游戏特定设置里关闭自动分配内存，手动分配 4096MB
+
+——
+
+https://paste.ee/p/sUhGp
+
+用 java 8 启动游戏，不要用 java 17
+
+——
+
+https://paste.ee/p/LDJJh
+
+把 i18nupdatemod-1.18-3.0.0.jar 删了
+
+——
+
+https://paste.ee/p/tsrdp
+
+你一个核显还是别开光影了
+
+——
+
+https://paste.ee/p/kmJQv
+
+装这个 mod https://www.mcmod.cn/class/2298.html
+
+你还得装这个 https://www.mcmod.cn/class/610.html
+
+——
+
+https://paste.ee/p/hWPR9
+
+装这个 mod https://www.mcmod.cn/class/5246.html
+
+——
+
+https://paste.ee/p/f4ayd
+
+你的 codechickenlib 没有下载完整
+
+——
+
+https://paste.ee/p/MJu1x
+
+在游戏特定设置里（不是全局游戏设置），关闭自动分配内存，手动分配合适的内存，并删掉所有 Java 虚拟机参数，然后在 Java 虚拟机参数里加 -Xms256M
+
+——
+
+https://paste.ee/p/TTnGG
+
+
 
 
 
