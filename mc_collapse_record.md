@@ -1,5 +1,51 @@
 # Minecraft 崩溃收集
 
+## 20230109
+
+——
+
+https://paste.ee/p/2ItGe
+
+在启动器的游戏设置里，拉到最下面，把「使用 OpenGL 软渲染器」打开
+https://img.kookapp.cn/assets/2023-01/dODEb69kiV0gg09h.png
+
+——
+
+https://paste.ee/p/Is3xb
+
+apexcore 和 registrator 冲突
+
+——
+
+![](https://api.onedrive.com/v1.0/shares/s!AiSrzi-vYVoBhBvR8Scv7zw6p-m-/root/content)
+
+在启动器的游戏设置里，拉到最下面，把「使用 OpenGL 软渲染器」打开
+https://img.kookapp.cn/assets/2023-01/dODEb69kiV0gg09h.png
+
+——
+
+https://paste.ee/p/HHBDM
+
+你的 lswk1.245+1.54.jar 没有下载完整
+
+——
+
+![](https://api.onedrive.com/v1.0/shares/s!AiSrzi-vYVoBhBxx9fpb-FISCNsT/root/content)
+
+https://paste.ee/p/ZvrCS
+
+装这个 mod 的 1.18.1-1.0.408-ALPHA 版本 https://www.mcmod.cn/class/1865.html
+
+装这个 mod https://www.mcmod.cn/class/6457.html 你还是把 ApexCore 删了吧
+
+PlayTics Furniture 1.18 v.1.9.jar 是给 1.18.2 用的，但是你运行的是 1.18.1
+
+——
+
+
+
+
+
 ## 20230108
 
 ——
