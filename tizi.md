@@ -14,7 +14,7 @@
 
 以下是目前（2023/02/10）我在用还不错的「梯子」服务商：
 
-### 推荐：[**SSRDOG**](http://dd.ma/246IUVmO)
+### 推荐：[**→SSRDOG←**](http://dd.ma/246IUVmO)
 
 [*原链*](https://dog.ssrdog.com/#/register?code=T2ChrHbu)
 
