@@ -6,10 +6,10 @@
 
 **以下仅用于学习内容，请勿用于违法用途！！！**
 
-## 「梯子」基础知识扫盲
-
-[https://github.com/xuefanqiang/home/blob/master/pages/fundamentals.md](https://github.com/xuefanqiang/home/blob/master/pages/fundamentals.md)
-
+> 「梯子」基础知识扫盲
+> 
+> [https://github.com/xuefanqiang/home/blob/master/pages/fundamentals.md](https://github.com/xuefanqiang/home/blob/master/pages/fundamentals.md)
+> 
 ## 「梯子」服务商
 
 以下是目前（2023/02/10）我在用还不错的「梯子」服务商：
@@ -17,6 +17,8 @@
 ### 推荐：[**→91Merry←**](https://going.91merry-1.top/auth/register?code=KQDe) | [备用链接](https://thesixshadow.com/)
 
 > 可每天签到获取流量，价格较便宜，稳定性良好
+
+### 其他：
 
 [Get A Free Node](https://getafreenode.com/)
 
