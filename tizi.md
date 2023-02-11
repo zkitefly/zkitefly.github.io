@@ -6,15 +6,15 @@
 
 **以下仅用于学习内容，请勿用于违法用途！！！**
 
-> 「梯子」基础知识扫盲
+## 梯子基础知识扫盲
 > 
 > [https://github.com/xuefanqiang/home/blob/master/pages/fundamentals.md](https://github.com/xuefanqiang/home/blob/master/pages/fundamentals.md)
 
 ## 「梯子」服务商
 
-以下是目前（2023/02/10）我在用还不错的「梯子」服务商：
+以下是目前（2023/02/10）我在用还不错的梯子服务商：
 
-### 推荐：[DaBai](https://dabai.in/)
+### 推荐：[DaBai](http://dd.ma/Dz4Hrtpw) · [备用链接](https://dabai.in/) 
 
 > 每月60GB流量免费体验，体验无需支付任何费用
 > 
@@ -25,6 +25,10 @@
 [91Merry](https://going.91merry-1.top/auth/register?code=KQDe) · [备用链接](https://thesixshadow.com/)
 
 > 可每天签到获取流量，价格较便宜，稳定性良好
+
+[一元机场](http://dd.ma/R4GyPGQZ) · [备用链接](https://xn--4gq62f52gdss.com/#/register?code=6rQoMBSy)
+
+> 价格很便宜，较为稳定，延迟中等，性价比高
 
 ### 其他：
 
@@ -39,15 +43,9 @@
 
 > 价格较中等，免费还算够用，很稳定，延迟较低，能发起工单，号称 绝不跑路 
 
-[一元机场](http://dd.ma/R4GyPGQZ)
-
-[*原链*](https://xn--4gq62f52gdss.com/#/register?code=6rQoMBSy)
-
-> 价格较便宜，无免费，较为稳定，延迟中等
+**如果你有好用的机场，不妨在下面的评论中分享下？qwq**
 
 <!--
-https://going.91merry-1.top/
-
 https://hashyun.top/
 -->
 
