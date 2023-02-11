@@ -17,10 +17,12 @@
 ### 推荐：[DaBai](https://h.dabai.in/auth/register?code=ju7B) | [备用链接](https://dabai.in/)
 
 > 每月60GB流量免费体验，体验无需支付任何费用
-> 可每天签到获取流量，价格较便宜，稳定性
+> 
+> 可每天签到获取流量，价格较便宜，稳定性良好
+> 
 > 能发起工单，有客服提问
 
-[91Merry](https://going.91merry-1.top/auth/register?code=KQDe) | [备用链接](https://thesixshadow.com/)
+[91Merry](https://going.91merry-1.top/auth/register?code=KQDe) · [备用链接](https://thesixshadow.com/)
 
 > 可每天签到获取流量，价格较便宜，稳定性良好
 
