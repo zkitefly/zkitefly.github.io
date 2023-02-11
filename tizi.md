@@ -14,7 +14,17 @@
 
 以下是目前（2023/02/10）我在用还不错的「梯子」服务商：
 
-### 推荐：[**→SSRDOG←**](http://dd.ma/246IUVmO)
+### 推荐：[**→91Merry←**](https://going.91merry-1.top/auth/register?code=KQDe) | [备用链接](https://thesixshadow.com/)
+
+> 可每天签到获取流量，价格较便宜，稳定性良好
+
+[Get A Free Node](https://getafreenode.com/)
+
+> 提供 V2Ray 节点，是免费的！
+> 目前， 100 +用户使用免费节点提供的免费节点安全快速地访问互联网！
+> 该站为永久返利，返利为20%，所以邀请到5位付费用户即可永久免费使用
+
+[SSRDOG](http://dd.ma/246IUVmO)
 
 [*原链*](https://dog.ssrdog.com/#/register?code=T2ChrHbu)
 
