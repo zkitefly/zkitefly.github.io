@@ -14,7 +14,7 @@
 
 以下是目前（2023/02/10）我在用还不错的「梯子」服务商：
 
-### 推荐：[DaBai](https://h.dabai.in/auth/register?code=ju7B) | [备用链接](https://dabai.in/)
+### 推荐：[DaBai](https://dabai.in/)
 
 > 每月60GB流量免费体验，体验无需支付任何费用
 > 
