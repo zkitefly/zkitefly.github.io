@@ -1,5 +1,7 @@
 # 梯子的介绍及教程
 
+![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com/zkitefly&count_bg=%23008080&title_bg=%23008080&icon=&icon_color=%23008080&title=zkitefly&edge_flat=false)
+
 ## 免责声明
 
 以下内容的平台和作者与本文作者没有任何关系，仅推荐和介绍

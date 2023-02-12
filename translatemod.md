@@ -1,5 +1,7 @@
 # [RTCT] 实时聊天翻译 Real Time Chat Translation Mod 的使用和密钥获取与我的提供
 
+![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com/zkitefly&count_bg=%23008080&title_bg=%23008080&icon=&icon_color=%23008080&title=zkitefly&edge_flat=false)
+
 > 本文作者 Zkitefly
 > 
 > 本文内容和图片参考 https://www.mcmod.cn/post/2103.html
