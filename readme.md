@@ -1,6 +1,8 @@
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com/zkitefly&count_bg=%23008080&title_bg=%23008080&icon=&icon_color=%23008080&title=zkitefly&edge_flat=false)
 
-## 这推荐一个网盘：文叔叔
+## [赞助通道，感谢支持！](https://zkitefly.github.io/zanzhu.png.html)
+
+## 这推荐一个网盘：**文叔叔**
 
 <details>
 <summary>展开查看详情</summary>
@@ -127,7 +129,21 @@ https://www.amazonaws.cn/s3
 </details>
 
 
-[点击此处前往注册账户](https://www.wenshushu.cn/?i=NVSB4V)
+[点击此处前往注册账户](http://dd.ma/PuePJOSY)
+
+## 推荐个梯子，本人认为很好用：iKuuu
+
+这个机场已经使用很长一段时间了
+
+官网：[点我进入](http://dd.ma/ffARGcwE)
+
+免费 + 速度不错+ 价格良心，推荐使用
+
+免费版永久使用，每月 50 Gb，每日签到送2G左右的流量，非常给力
+
+流量每月清空重置为 50 Gb
+
+价格：最低可以购买一个月 10 元，流量为 300 Gb，每个月依然会重置，任然可以签到！
 
 <script src="https://giscus.app/client.js"
         data-repo="zkitefly/zkitefly.github.io"
