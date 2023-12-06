@@ -220,7 +220,7 @@ https://bigjpg.com/
 </script>
 
 <!-- Body -->
-<p id="ruozi">为什么喝消毒水会中毒？我是不是买到假货了——二手弱智</p>
+<pz id="ruozi">为什么喝消毒水会中毒？我是不是买到假货了——二手弱智</pz>
 
 <!-- Footer -->
 <script>
