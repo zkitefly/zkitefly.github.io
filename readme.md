@@ -202,6 +202,29 @@ https://bigjpg.com/
 
 -->
 
+[弱智吧言论](/ruozi.html)
+
+<!-- Body -->
+<p id="ruozi">为什么喝消毒水会中毒？我是不是买到假货了——二手弱智</p>
+
+<!-- Footer -->
+<script>
+  var xhr = new XMLHttpRequest();
+  xhr.open('get', 'https://www.7ed.net/ruozi/api');
+  xhr.onreadystatechange = function () {
+    if (xhr.readyState === 4) {
+      var data = JSON.parse(xhr.responseText);
+      var ruozi = document.getElementById('ruozi');
+      ruozi.innerText = data.ruozi;
+    }
+  }
+  xhr.send();
+</script>
+
+---
+
+[Bad Soup 毒鸡汤](/soup.html)
+
 <!-- Body -->
 <p id="badsoup">有人一笑就很好看，你是一看就挺好笑。</p>
 
@@ -214,23 +237,6 @@ https://bigjpg.com/
       var data = JSON.parse(xhr.responseText);
       var badsoup = document.getElementById('badsoup');
       badsoup.innerText = data.badsoup;
-    }
-  }
-  xhr.send();
-</script>
-
-<!-- Body -->
-<pz id="ruozi">为什么喝消毒水会中毒？我是不是买到假货了——二手弱智</pz>
-
-<!-- Footer -->
-<script>
-  var xhr = new XMLHttpRequest();
-  xhr.open('get', 'https://www.7ed.net/ruozi/api');
-  xhr.onreadystatechange = function () {
-    if (xhr.readyState === 4) {
-      var data = JSON.parse(xhr.responseText);
-      var ruozi = document.getElementById('ruozi');
-      ruozi.innerText = data.ruozi;
     }
   }
   xhr.send();
