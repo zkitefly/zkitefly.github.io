@@ -214,7 +214,7 @@ https://bigjpg.com/
 <!-- Footer -->
 <script>
   var xhr = new XMLHttpRequest();
-  xhr.open('get', 'https://www.7ed.net/soup/api');
+  xhr.open('get', 'https://api.7ed.net/soup/api');
   xhr.onreadystatechange = function () {
     if (xhr.readyState === 4) {
       var data = JSON.parse(xhr.responseText);
