@@ -204,26 +204,9 @@ https://bigjpg.com/
 
 [弱智吧言论](/ruozi.html)
 
----
-
 [Bad Soup 毒鸡汤](/soup.html)
 
-<!-- Body -->
-<p id="badsoup">有人一笑就很好看，你是一看就挺好笑。</p>
-
-<!-- Footer -->
-<script>
-  var xhr = new XMLHttpRequest();
-  xhr.open('get', 'https://api.7ed.net/soup/api');
-  xhr.onreadystatechange = function () {
-    if (xhr.readyState === 4) {
-      var data = JSON.parse(xhr.responseText);
-      var badsoup = document.getElementById('badsoup');
-      badsoup.innerText = data.badsoup;
-    }
-  }
-  xhr.send();
-</script>
+[梯子](/mcct.html)
 
 <script src="https://giscus.app/client.js"
         data-repo="zkitefly/zkitefly.github.io"
