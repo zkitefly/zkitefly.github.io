@@ -8,7 +8,7 @@
 
 ## 第二步，获取配置文件
 
-前往 [https://zkitefly.github.io/mcc](https://zkitefly.github.io/mmc#%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6)
+前往 [https://zkitefly.github.io/mcc](https://zkitefly.github.io/mcc#%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6)
 
 在 配置文件 目录下，任选一个或多个配置文件，**复制**完整的 URL，不是下载这个文件！
 
