@@ -34,6 +34,6 @@
 
 ### Windows 版
 
-点击侧边切换至主页页面（General），将系统代理（System Proxy）开关设置为开即可
+点击侧边切换至主页页面（General），将系统代理开关（System Proxy）设置为开即可
 
-备注：如果使用 Windows 版后关机重启无网络连接，可尝试再次打开 Clash for Windows 大概率能解决问题
+备注：如果使用 Windows 版后关机重启无网络连接，可尝试打开 Clash for Windows 并将系统代理开关（System Proxy）设置为关，大概率能解决问题。
