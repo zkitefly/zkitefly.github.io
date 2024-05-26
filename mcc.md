@@ -1,6 +1,6 @@
 # My-Clash-Config
 
-[教程页面](/mcc)
+[教程页面](/mcct)
 
 ## 配置文件
 
