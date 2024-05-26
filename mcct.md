@@ -24,7 +24,7 @@
 
 打开 Clash for Windows
 
-点击侧边切换至配置页面（Profiles），在上方的的输入框中输入刚才复制的 URL，回车（↩︎）或点击旁边的下载按钮（Download），然后点击刚刚出现的配置
+点击侧边切换至配置页面（Profiles），在上方的输入框中输入刚才复制的 URL，回车（↩︎）或点击旁边的下载按钮（Download），然后点击刚刚出现的配置
 
 ### 第四步，启用梯子
 
@@ -34,6 +34,6 @@
 
 ### Windows 版
 
-点击侧边切换至通用页面（General），将系统代理（System Proxy）开关设置为开即可
+点击侧边切换至主页页面（General），将系统代理（System Proxy）开关设置为开即可
 
 备注：如果使用 Windows 版后关机重启无网络连接，可尝试再次打开 Clash for Windows 大概率能解决问题
