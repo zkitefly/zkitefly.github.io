@@ -16,7 +16,7 @@ https://l.db-link01.top/link/z2SMogEehRtWyNWq?clash=1
 
 ## 客户端
 
-[cmfa-2.10.1-meta-universal-release.apk](https://ghproxy.org/https://github.com/zkitefly/zkitefly.github.io/releases/download/3/cmfa-2.10.1-meta-universal-release.apk)
+[Clash for Android 2.5.12.premium.apk](https://ghproxy.org/https://github.com/zkitefly/zkitefly.github.io/releases/download/3/Clash.for.Android.2.5.12.premium.apk)
 
 [Clash.for.Windows.Setup.0.20.39-chinese.exe](https://ghproxy.org/https://github.com/zkitefly/zkitefly.github.io/releases/download/3/Clash.for.Windows.Setup.0.20.39-chinese.exe)
 
