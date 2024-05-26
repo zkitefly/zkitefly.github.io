@@ -1,5 +1,7 @@
 # My-Clash-Config
 
+[教程页面](/mcc)
+
 ## 配置文件
 
 ### Ikuuu
