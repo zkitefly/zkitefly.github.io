@@ -202,11 +202,11 @@ https://bigjpg.com/
 
 -->
 
-[弱智吧言论](/ruozi.html)
+[弱智吧言论](/ruozi)
 
-[Bad Soup 毒鸡汤](/soup.html)
+[Bad Soup 毒鸡汤](/soup)
 
-[梯子](/mcct.html)
+[梯子](/mcct)
 
 <script src="https://giscus.app/client.js"
         data-repo="zkitefly/zkitefly.github.io"
