@@ -206,7 +206,7 @@ https://bigjpg.com/
 
 [Bad Soup 毒鸡汤](/soup.md)
 
-[梯子](mcc/mcct.md)
+[梯子](https://zkitefly.github.io/mcc)
 
 <script src="https://giscus.app/client.js"
         data-repo="zkitefly/zkitefly.github.io"
