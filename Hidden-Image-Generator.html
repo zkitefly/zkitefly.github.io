@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>隐藏图生成器</title>
+    <style>
+        body {
+            text-align: center;
+            margin-top: 50px;
+        }
+        #canvas-container {
+            margin: 20px;
+            padding: 20px;
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+    <h1>隐藏图生成器</h1>
+    <input type="file" id="image1" accept="image/*">
+    <input type="file" id="image2" accept="image/*">
+    <button id="generateBtn">生成隐藏图</button>
+    <div id="canvas-container">
+        <canvas id="hiddenCanvas"></canvas>
+    </div>
+
+    <script>
+        const image1Input = document.getElementById('image1');
+        const image2Input = document.getElementById('image2');
+        const generateBtn = document.getElementById('generateBtn');
+        const hiddenCanvas = document.getElementById('hiddenCanvas');
+        const ctx = hiddenCanvas.getContext('2d');
+
+        function loadImage(file) {
+            return new Promise((resolve) => {
+                const img = new Image();
+                img.onload = () => resolve(img);
+                img.src = URL.createObjectURL(file);
+            });
+        }
+
+        function generateHiddenImage(img1, img2) {
+            const width = Math.min(img1.width, img2.width);
+            const height = Math.min(img1.height, img2.height);
+            hiddenCanvas.width = width;
+            hiddenCanvas.height = height;
+
+            ctx.drawImage(img1, 0, 0, width, height);
+            const imageData1 = ctx.getImageData(0, 0, width, height).data;
+
+            ctx.clearRect(0, 0, width, height);
+            ctx.drawImage(img2, 0, 0, width, height);
+            const imageData2 = ctx.getImageData(0, 0, width, height).data;
+
+            const outputImageData = ctx.createImageData(width, height);
+            const outputData = outputImageData.data;
+
+            for (let i = 0; i < imageData1.length; i += 4) {
+                const GA = imageData1[i];
+                const GB = imageData2[i];
+                const AMix = 255 - (GA - GB);
+
+                if (AMix === 0) continue;
+
+                const GMix = GB / (AMix / 255);
+
+                outputData[i] = GMix;
+                outputData[i + 1] = GMix;
+                outputData[i + 2] = GMix;
+                outputData[i + 3] = AMix;
+            }
+
+            ctx.putImageData(outputImageData, 0, 0);
+        }
+
+        generateBtn.addEventListener('click', async () => {
+            if (image1Input.files.length > 0 && image2Input.files.length > 0) {
+                const img1 = await loadImage(image1Input.files[0]);
+                const img2 = await loadImage(image2Input.files[0]);
+                generateHiddenImage(img1, img2);
+            } else {
+                alert('请上传两张图片');
+            }
+        });
+    </script>
+</body>
+</html>
