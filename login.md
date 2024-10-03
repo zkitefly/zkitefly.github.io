@@ -20,6 +20,7 @@ layout: default
             user-select: all;
             cursor: pointer;
             padding: 5px;
+            background-color: #b2b2b2;
             border-radius: 5px;
             display: inline-block;
             margin-top: 10px;
