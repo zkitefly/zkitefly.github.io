@@ -15,8 +15,6 @@ layout: default
         margin-top: 20px;
     }
     .selectable {
-        -webkit-user-select: all;
-        user-select: all;
         cursor: pointer;
         padding: 5px;
         background-color: #b2b2b2;
@@ -42,7 +40,7 @@ layout: default
         // 如果 `login=1`，只显示用户提示信息
         if (login === '1') {
             const userPrompt = document.createElement('p');
-            userPrompt.innerHTML = `请复制代码 <span class="selectable">${userCode}</span> <br>并前往 <a href="${verificationUri}">${verificationUri}</a>，输入代码允许访问并登录微软账户。`;
+            userPrompt.innerHTML = `请复制代码 <span class="selectable" id="userCode">${userCode}</span> <br>并前往 <a href="${verificationUri}">${verificationUri}</a>，输入代码允许访问并登录微软账户。`;
             qrcodeContainer.appendChild(userPrompt);
         } else {
             // 否则生成二维码
@@ -58,6 +56,16 @@ layout: default
             const promptMessage = document.createElement('p');
             promptMessage.innerHTML = `请扫描二维码。`;
             qrcodeContainer.appendChild(promptMessage);
+
+            // 添加点击事件，使 userCode 在点击时全选
+            const userCodeElement = document.getElementById('userCode');
+            userCodeElement.addEventListener('click', function() {
+                const range = document.createRange();
+                range.selectNodeContents(userCodeElement);
+                const selection = window.getSelection();
+                selection.removeAllRanges();
+                selection.addRange(range);
+            });
         }
     }
 
