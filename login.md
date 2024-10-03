@@ -4,16 +4,6 @@ layout: default
 
 {% raw %}
 <style>
-    body {
-        text-align: center;
-        padding: 50px;
-    }
-    #qrcode {
-        margin-top: 20px;
-    }
-    canvas {
-        margin-top: 20px;
-    }
     .selectable {
         cursor: pointer;
         padding: 5px;
