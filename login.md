@@ -48,16 +48,6 @@ layout: default
             const promptMessage = document.createElement('p');
             promptMessage.innerHTML = `请扫描二维码。`;
             qrcodeContainer.appendChild(promptMessage);
-
-            // 添加点击事件，使 userCode 在点击时全选
-            const userCodeElement = document.getElementById('userCode');
-            userCodeElement.addEventListener('click', function() {
-                const range = document.createRange();
-                range.selectNodeContents(userCodeElement);
-                const selection = window.getSelection();
-                selection.removeAllRanges();
-                selection.addRange(range);
-            });
         }
     }
 
