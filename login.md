@@ -3,7 +3,6 @@ layout: default
 ---
 
 {% raw %}
-<head>
     <style>
         body {
             text-align: center;
@@ -71,8 +70,7 @@ layout: default
             }
         }
     </script>
-</head>
-<body>
+
     <div id="qrcode"></div>
-</body>
+
 {% endraw %}
