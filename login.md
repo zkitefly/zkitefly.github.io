@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+{% raw %}
 <head>
     <style>
         body {
@@ -66,5 +71,7 @@
         }
     </script>
 </head>
-
+<body>
     <div id="qrcode"></div>
+</body>
+{% endraw %}
