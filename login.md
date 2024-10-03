@@ -5,6 +5,8 @@ layout: default
 {% raw %}
 <style>
     .selectable {
+        -webkit-user-select: all;
+        user-select: all;
         cursor: pointer;
         padding: 5px;
         background-color: #b2b2b2;
