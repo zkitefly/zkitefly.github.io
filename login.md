@@ -1,8 +1,6 @@
 <head>
     <style>
         body {
-            background-color: #121212;
-            color: #ffffff;
             text-align: center;
             padding: 50px;
         }
@@ -17,7 +15,6 @@
             user-select: all;
             cursor: pointer;
             padding: 5px;
-            background-color: #333;
             border-radius: 5px;
             display: inline-block;
             margin-top: 10px;
