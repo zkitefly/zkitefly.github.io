@@ -200,11 +200,11 @@ https://bigjpg.com/
 
 ---------
 
+[弱智吧言论](/ruozi.md)
+
 -->
 
 [upptime](https://zkitefly.github.io/upptime)
-
-[弱智吧言论](/ruozi.md)
 
 [Bad Soup 毒鸡汤](/soup.md)
 
